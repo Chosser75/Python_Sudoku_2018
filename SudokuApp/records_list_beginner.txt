@@ -1,0 +1,4 @@
+Daulet Kshibekov;Beginner;00:01:58;118
+Daulet;Beginner;00:02:11;131
+Bill Gates;Beginner;00:01:50;110
+Jackie;Beginner;00:01:42;102
